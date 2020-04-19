@@ -1,4 +1,4 @@
-# bootcamp-gostack-conceitos-nodejs
+# Bootcamp Go Stack | Conceitos Node.js
 Desafio sobre conceitos do Node.js aplicado no Bootcamp Go Stack da RocketSeat
 
 ## Como executar
